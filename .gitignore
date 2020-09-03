@@ -1,0 +1,14 @@
+*.xlsx
+*.RData
+*.Rhistory
+*.txt
+*.fna
+*.gff
+*.pdf
+*.csv
+*.jpg
+*.tif
+*.dna
+*.pptx
+*.yaml
+
